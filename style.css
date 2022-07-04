@@ -1,0 +1,32 @@
+body{
+    font-family: 'Splash', cursive;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.header-color{
+    color: rgb(183, 14, 163);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
